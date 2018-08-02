@@ -8,7 +8,7 @@ const HomePage = ({history}) => {
           <h1 className="ui inverted stackable header">
             <img
               className="ui image massive"
-              src="/assets/logo.png"
+              src="/assets/images/logo.png"
               alt="logo"
             />
             <div className="content">Re-vents</div>

@@ -23,7 +23,7 @@ class App extends Component {
           render={() => (
             <div>
               <NavBar />
-              <Container className="main">
+              <Container className="main"> 
                 <Switch>
                   <Route path="/events" component={EventDashboard} />
                   <Route path="/event/:id" component={EventDetailedPage} />
